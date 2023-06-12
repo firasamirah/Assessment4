@@ -1,48 +1,55 @@
 # 2018 Data Science Bowl
 ## Project Description
+Spot Nuclei. Speed Cures.
+Imagine speeding up research for almost every disease, from lung cancer and heart disease to rare disorders. The 2018 Data Science Bowl offers our most ambitious mission yet: create an algorithm to automate nucleus detection.
 
+We’ve all seen people suffer from diseases like cancer, heart disease, chronic obstructive pulmonary disease, Alzheimer’s, and diabetes. Many have seen their loved ones pass away. Think how many lives would be transformed if cures came faster.
 
-The objective of the project is to classify a product into the four categories Electronics, Household, Books and Clothing & Accessories, based on its description available in the e-commerce platform.
+By automating nucleus detection, you could help unlock cures faster—from rare disorders to the common cold. 
 
-This is the classification based E-commerce text dataset for 4 categories - "Electronics", "Household", "Books" and "Clothing & Accessories", which almost cover 80% of any E-commerce website. The dataset is in ".csv" format with two columns - the first column is the class name and the second one is the datapoint of that class. The data point is the product and description from the e-commerce website.
+Why nuclei?
+Identifying the cells’ nuclei is the starting point for most analyses because most of the human body’s 30 trillion cells contain a nucleus full of DNA, the genetic code that programs each cell. Identifying nuclei allows researchers to identify each individual cell in a sample, and by measuring how cells react to various treatments, the researcher can understand the underlying biological processes at work.
 
-## The installation and how to run the project
+By participating, teams will work to automate the process of identifying nuclei, which will allow for more efficient drug testing, shortening the 10 years it takes for each new drug to come to market.
+
+## The installation and how to run the project 
+
 ### Steps for installation
-There are various methods to download the code of github on your system:-
+
+##### There are various methods to download the code of github on your system:-
+
 Clone repository
 
 1) Go to that particular repository
 2) Click on the download icon
 3) Copy the repo link(you can also copy this from page URL)
-go to your terminal and type git clone
-4) Download Zip
+4) go to your terminal and type git clone <link> 
 
-Go to repository
-Again click on download icon
-Click on download zip
-Now your Zip will be downloaded , unzip and use it.
+Download Zip
+
+1) Go to repository
+2) Again click on download icon
+3) Click on download zip
+4) Now your Zip will be downloaded , unzip and use it.
+
 Get raw code
 
 If you don't want the whole repository, or want to use only one or two files ,
 
-Go to that file
-Click on Raw and you will see the page with raw code ,
-At this point you can download that page, or you can also copy the code.
-To download the page simply run wget
-Steps for running the project
+1) Go to that file
+2) Click on Raw and you will see the page with raw code ,
+3) At this point you can download that page, or you can also copy the code.
+4) To download the page simply run wget <pageUrl> 
+
+### Steps for running the project 
 Here are the steps to compile and run a GitHub project:
 
-Clone the repository: Use the "git clone" command in a terminal/command prompt to download the project files to your local machine.
-Navigate to the project directory: Use the "cd" command to navigate to the directory where the project files are located.
-Install dependencies: If the project requires any external libraries, install them using the package manager specified in the project's documentation (e.g., pip, npm, etc.).
-Compile the project: Depending on the language and framework used, compile the project using a build tool (e.g., make, gradle, etc.) or by executing a script provided in the project files.
-Run the project: Execute the compiled binary or run the script to launch the project.
-Output of your project
-Traning model
-Performance
-
-Accuracy graph
-Accuracy graph
-
-Credits
-https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
+1) Clone the repository: Use the "git clone" command in a terminal/command prompt to download the project files to your local machine.
+2) Navigate to the project directory: Use the "cd" command to navigate to the directory where the project files are located.
+3) Install dependencies: If the project requires any external libraries, install them using the package manager specified in the project's documentation (e.g., pip, npm, etc.).
+4) Compile the project: Depending on the language and framework used, compile the project using a build tool (e.g., make, gradle, etc.) or by executing a script provided in the project files.
+5) Run the project: Execute the compiled binary or run the script to launch the project.
+  
+## Output of your project
+## Credits
+https://www.kaggle.com/competitions/data-science-bowl-2018/overview
