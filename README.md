@@ -10,8 +10,6 @@ By automating nucleus detection, you could help unlock cures faster—from rare 
 Why nuclei?
 Identifying the cells’ nuclei is the starting point for most analyses because most of the human body’s 30 trillion cells contain a nucleus full of DNA, the genetic code that programs each cell. Identifying nuclei allows researchers to identify each individual cell in a sample, and by measuring how cells react to various treatments, the researcher can understand the underlying biological processes at work.
 
-By participating, teams will work to automate the process of identifying nuclei, which will allow for more efficient drug testing, shortening the 10 years it takes for each new drug to come to market.
-
 ## The installation and how to run the project 
 
 ### Steps for installation
@@ -51,5 +49,7 @@ Here are the steps to compile and run a GitHub project:
 5) Run the project: Execute the compiled binary or run the script to launch the project.
   
 ## Output of your project
+  ![Training process plotted using Tensorboard](https://github.com/firasamirah/YPAI03_Assessment4/assets/91971387/ff24d291-32d4-4347-9e6c-d052b08c13d
+
 ## Credits
 https://www.kaggle.com/competitions/data-science-bowl-2018/overview
