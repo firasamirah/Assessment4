@@ -47,9 +47,6 @@ Here are the steps to compile and run a GitHub project:
 3) Install dependencies: If the project requires any external libraries, install them using the package manager specified in the project's documentation (e.g., pip, npm, etc.).
 4) Compile the project: Depending on the language and framework used, compile the project using a build tool (e.g., make, gradle, etc.) or by executing a script provided in the project files.
 5) Run the project: Execute the compiled binary or run the script to launch the project.
-  
-## Output of your project
-  ![Training process plotted using Tensorboard](https://github.com/firasamirah/YPAI03_Assessment4/assets/91971387/ff24d291-32d4-4347-9e6c-d052b08c13d
 
 ## Credits
 https://www.kaggle.com/competitions/data-science-bowl-2018/overview
